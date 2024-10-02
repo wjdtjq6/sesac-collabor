@@ -1,1 +1,3 @@
-func a()
+func a() {
+	print("a")
+}
